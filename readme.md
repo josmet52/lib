@@ -1,4 +1,4 @@
-# lib:
+# lib
 ### Dépot initialisé pour garder les différentes classes utilisées ou tilisables dans plusieurs programmes
 
 - **_color_lib.py_** : classe pour afficher les 256 couleurs avec les valeurs RBG
